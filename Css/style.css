@@ -118,7 +118,7 @@
 /* Bottom section of body */
 
 .sec_3 {
-    background-image: url(../Images/gradient2.png),url(../Images/watch.png);
+    background-image: url(./Images/gradient2.png),url(./Images/watch.png);
     background-repeat: no-repeat;
     margin-left: 400px;
     margin-top: 50px;
