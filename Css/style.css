@@ -6,7 +6,7 @@
 
 /* Header styles */
 .banner {
-    background-image: url(../Images/banner/banner1.png);
+    background-image: url(./Images/banner/banner1.png);
     margin-left: 200px;
     height: 808px;
     width: 1600px;
